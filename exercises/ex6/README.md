@@ -1,4 +1,4 @@
-## Exercicio 
+## Exercicio 06 - Enviar email com resposta da Solicitação.
 
 
 Hello good afternoon!
