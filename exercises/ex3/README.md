@@ -84,5 +84,5 @@ E também Salve o seu Process
 
 ![MDK](images/img14.png)
 
-## Próximos Passos:
-[Exercício 04 - Formulário de Aprovação](exercises/ex4/README.md)
+## Próximo Passo:
+[Exercício 04 - Formulário de Aprovação](/exercises/ex4/README.md)

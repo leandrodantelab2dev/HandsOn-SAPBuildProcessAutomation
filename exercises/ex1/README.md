@@ -36,5 +36,5 @@ Bom trabalho! Temos agora nosso __Business Process__ e __Process__ criados!
 
 ![MDK](images/img6.png)
 
-## Próximos Passos:
-[Exercício 02 - Trigger Formulario de Solicitação](exercises/ex2/README.md)
+## Próximo Passo:
+[Exercício 02 - Trigger Formulario de Solicitação](/exercises/ex2/README.md)

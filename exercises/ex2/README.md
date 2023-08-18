@@ -70,5 +70,5 @@ Salve o Process.
 
 ![MDK](images/img13.png)
 
-## Próximos Passos:
-[Exercício 03 - Tabela de Decisão](exercises/ex3/README.md)
+## Próximo Passo:
+[Exercício 03 - Tabela de Decisão](/exercises/ex3/README.md)
